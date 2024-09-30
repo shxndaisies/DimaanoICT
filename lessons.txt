@@ -1,0 +1,33 @@
+<html>
+<body background="download.jpg">
+<head>
+<title>Dimaano E-Portfolio</title>
+</head>
+<hr length="100%" color="White">
+<h1 align="left"><font size="7" face="Vladimir Script" color="White"><b>Lessons</b></font></h1>
+<font size="5" face="Harlow Solid" color="white">
+XHTML <br>
+<img src="1.jpg" alt="code" width="40%">
+<img src="11.jpg" alt="browser output" width="40%"><br>
+Lists <br>
+<img src="2.jpg" alt="ordered list" width="40%">
+<img src="22].jpg" alt="unordered list" width="40%">
+<img src="222.jpg" alt="definition list"width="40%"> <br>
+Tables <br>
+<img src="3.jpg" alt="code" width="40%">
+<img src="33.jpg" alt="browser output"width="40%"><br>
+Hyperlinks<br>
+<img src="4.jpg" alt="code" width="40%">
+<img src="44.jpg" alt="browser output" width="40%"><br>
+Forms<br>
+<img src="5.jpg" alt="code" width="40%">
+<img src="55.jpg" alt="browser output" width="40%"><br>
+<hr length="100%" color="White">
+<font size="5" face="Harlow Solid"><a href="e-portfolio.html" style="color:pink;">Back to Navigation</a></font>
+<br>
+<hr length="100%" color="White">
+source: ICT powerpoints by Ms. Uminga <br>
+background: https://ph.pinterest.com/pin/2814818510746905/
+</font>
+</body>
+</html>

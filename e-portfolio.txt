@@ -1,0 +1,35 @@
+
+<html>
+<body bgcolor="ff1862">
+<head>
+<title>Dimaano E-Portfolio</title>
+</head>
+<hr length="100%" color="b2003a">
+<h1 align="center"><font size="7" face="Vladimir Script">My E-Portfolio</font></h1>
+<font face="Harlow Solid">
+<table align="center">
+<tr>
+<th><font size="6">Navigation</font></th>
+</tr>
+<tr>
+<td><font size="5"><a href="#section1">About Me!</a></font></td>
+</tr>
+<tr>
+<td><font size="5"><a href="#section2">Images</font></td>
+</tr>
+<tr>
+<td><font size="5"><a href="#section3">Videos</font></td>
+</tr>
+<tr>
+<td><font size="5"><a href="#section4">Reflection</font></td>
+</tr>
+</table>
+<p>How do you feel about the design of my website?</p>
+<form>
+  <input type="radio" id="good" name="opinion" value="GOOD">
+  <input type="radio" id="neutral" name="opinion" value="NEUTRAL">
+  <input type="radio" id="bad" name="opinion" value="BAD">
+</form> 
+</font>
+</body>
+</html>

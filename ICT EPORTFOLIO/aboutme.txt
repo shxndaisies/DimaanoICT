@@ -1,0 +1,21 @@
+<html>
+<body background="download.jpg">
+<head>
+<title>Dimaano E-Portfolio</title>
+</head>
+<hr length="100%" color="White">
+<h1 align="left"><font size="7" face="Vladimir Script" color="White"><b>About me!</b></font></h1>
+<font size="5" face="Harlow Solid" color="white">
+<p>
+Hi! I am Shanelle Ann Margaret T. Dimaano, a 14-year-old student from 9-Fairness. My favorite color is definitely pink! <br> 
+I have a passion for many types of art such as painting, drawing, crocheting, and knitting. Ever since I was a child, I have always <br>
+been a diligent student who always strives to do her best. I have been through challenges but I always persevere. 
+</p>
+<hr length="100%" color="White">
+<font size="5" face="Harlow Solid"><a href="e-portfolio.html" style="color:pink;">Back to Navigation</a></font>
+<br>
+<hr length="100%" color="White">
+background: https://ph.pinterest.com/pin/2814818510746905/
+</font>
+</body>
+</html>
